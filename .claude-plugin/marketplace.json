@@ -5,15 +5,15 @@
     "email": "huang.m.chang@gmail.com"
   },
   "metadata": {
-    "description": "Learning-oriented Claude Code skills: structured explanations and architectural walkthroughs.",
-    "version": "0.1.1"
+    "description": "Four Claude Code skills for learning and teaching -- explain, walkthrough, tutorial, and guide.",
+    "version": "0.1.2"
   },
   "plugins": [
     {
       "name": "skills-for-learning",
       "source": "./",
-      "description": "Bundles the `explain` and `walkthrough` skills for learning and teaching.",
-      "version": "0.1.1",
+      "description": "Bundles four skills -- explain, walkthrough, tutorial, and guide -- for learning and teaching.",
+      "version": "0.1.2",
       "author": {
         "name": "Huang-Ming Chang"
       },
@@ -21,7 +21,7 @@
       "repository": "https://github.com/iannbing/skills-for-learning",
       "license": "MIT",
       "category": "learning",
-      "tags": ["learning", "documentation", "teaching", "explanation", "walkthrough"]
+      "tags": ["learning", "teaching", "documentation", "explanation", "walkthrough", "tutorial", "guide"]
     }
   ]
 }

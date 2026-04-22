@@ -1,7 +1,7 @@
 {
   "name": "skills-for-learning",
   "description": "Agent skills for learning and teaching",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Huang-Ming Chang",
     "email": "huang.m.chang@gmail.com"
