@@ -1,0 +1,27 @@
+{
+  "name": "skills-for-learning",
+  "owner": {
+    "name": "Huang-Ming Chang",
+    "email": "huang.m.chang@gmail.com"
+  },
+  "metadata": {
+    "description": "Learning-oriented Claude Code skills: structured explanations and architectural walkthroughs.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "skills-for-learning",
+      "source": "./",
+      "description": "Bundles the `explain` and `walkthrough` skills for learning and teaching.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Huang-Ming Chang"
+      },
+      "homepage": "https://github.com/iannbing/skills-for-learning",
+      "repository": "https://github.com/iannbing/skills-for-learning",
+      "license": "MIT",
+      "category": "learning",
+      "tags": ["learning", "documentation", "teaching", "explanation", "walkthrough"]
+    }
+  ]
+}

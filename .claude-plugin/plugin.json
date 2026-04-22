@@ -1,0 +1,21 @@
+{
+  "name": "skills-for-learning",
+  "description": "Agent skills for learning and teaching",
+  "version": "0.1.0",
+  "author": {
+    "name": "Huang-Ming Chang",
+    "email": "huang.m.chang@gmail.com"
+  },
+  "homepage": "https://github.com/iannbing/skills-for-learning",
+  "repository": "https://github.com/iannbing/skills-for-learning",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "documentation",
+    "teaching",
+    "explanation",
+    "walkthrough",
+    "architecture",
+    "onboarding"
+  ]
+}
