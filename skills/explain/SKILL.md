@@ -1,6 +1,6 @@
 ---
 name: explain
-description: Explain any concept, system, codebase, technology, or process using a structured three-section format: High-Level overview, Break-Down, and Glossary. Use this skill whenever the user asks you to explain, describe, walk through, or help them understand something -- whether it's a piece of code, an architecture, a protocol, a framework, a design pattern, an algorithm, a business process, or any technical or non-technical topic. Also use this skill when the user says things like "what is...", "how does...work", "can you break down...", "help me understand...", "ELI5", or "walk me through...". Even if the user doesn't explicitly say "explain", if the intent is clearly to understand something rather than to build or fix something, use this skill.
+description: Explain any concept, system, codebase, technology, or process using a structured three-section format -- High-Level overview, Break-Down, and Glossary. Use this skill whenever the user asks you to explain, describe, walk through, or help them understand something -- whether it's a piece of code, an architecture, a protocol, a framework, a design pattern, an algorithm, a business process, or any technical or non-technical topic. Also use this skill when the user says things like "what is...", "how does...work", "can you break down...", "help me understand...", "ELI5", or "walk me through...". Even if the user doesn't explicitly say "explain", if the intent is clearly to understand something rather than to build or fix something, use this skill.
 ---
 
 # Explain Skill

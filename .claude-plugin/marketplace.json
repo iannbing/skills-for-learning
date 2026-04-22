@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Learning-oriented Claude Code skills: structured explanations and architectural walkthroughs.",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
       "name": "skills-for-learning",
       "source": "./",
       "description": "Bundles the `explain` and `walkthrough` skills for learning and teaching.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "Huang-Ming Chang"
       },
